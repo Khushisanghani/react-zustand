@@ -2,7 +2,7 @@
 // import Position from "./component/Middleware/Position"
 
 import CourseForm from "./component/CourseForm"
-import CourseList from "./component/CourseList"
+// import CourseList from "./component/CourseList"
 
 // import Count from "./component/Count"
 function App() {
@@ -12,7 +12,7 @@ function App() {
     {/* <TodoList/> */}
     {/* <Position/> */}
     <CourseForm/>
-    <CourseList/>
+    {/* <CourseList/> */}
     </>
   )
 }
